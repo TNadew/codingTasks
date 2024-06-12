@@ -1,6 +1,12 @@
+
+# Simple shopping template 
+
+This project is a simple shopping website using react routers , providers and navigation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
