@@ -1,0 +1,11 @@
+.Authentication{
+    display: flex;
+    border: 1px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10%;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    padding: 10px;
+}

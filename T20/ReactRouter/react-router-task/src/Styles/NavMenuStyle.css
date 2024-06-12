@@ -1,0 +1,20 @@
+.logo{
+    width: 85px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+
+.navItem {
+    display: flex;
+    margin: 10px;
+    color:beige;
+    border-style:solid;
+    content:inherit ;
+    border-color: rgb(63, 61, 57);
+    border-radius: 10px;
+    border-bottom: 0ch;
+    padding-left: 30px;
+    padding-right: 15px;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}

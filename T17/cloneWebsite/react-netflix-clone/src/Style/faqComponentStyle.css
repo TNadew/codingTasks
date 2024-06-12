@@ -1,0 +1,46 @@
+
+/**Style for custom FAQ component*/
+#customAccordion {
+    --bs-accordion-bg: #2d2d2d;
+    --bs-accordion-btn-color: #ffffff;
+    --bs-accordion-active-color: #ffffff;
+    --bs-accordion-active-bg: #2d2d2d;
+    --bs-accordion-border-radius: 0%;
+    --bs-accordion-button-focus-border-color: none;
+    --bs-accordion-button-focus-box-shadow: #ffffff;
+     padding: 0px 72px 0px 72px;
+    
+
+}
+
+.accordionItem {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: left;
+    border-style: solid;
+    border-color: #000000;
+    border-bottom-color: #000413;
+    border-bottom-width: 10px;
+    margin-bottom: 10px; 
+}
+
+#defaultMargin{
+    margin: 32px;
+}
+
+h2{
+    color: white;
+    font-size: 48px ;
+    font-family: sans-serif;
+    font-weight: bold ;
+
+}
+
+p{
+    color: white;
+    font-size: 24px ;
+    font-family: sans-serif;
+    margin: 16px 0 0 ;
+
+}

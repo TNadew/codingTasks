@@ -1,0 +1,59 @@
+/*Styling for reusable card component */
+.reusable-left{
+    display: flex;
+    text-align: left;
+    vertical-align: middle;
+    margin :32px;
+    flex-direction: row;
+}
+
+.reusable-right{
+    display: flex;
+    text-align: left;
+    vertical-align: middle;
+    margin :32px;
+    flex-direction: row-reverse;
+}
+
+
+.defaulth2{
+    color: white;
+    font-size: 48px ;
+    font-family: sans-serif;
+    font-weight: bold ;
+
+}
+
+.defaultp{
+    color: white;
+    font-size: 24px ;
+    font-family: sans-serif;
+    margin: 16px 0 0 ;
+
+}
+
+@media screen and (min-width: 960px) {
+    .defaulth2{
+        font-size: 3rem;
+        font-weight: 900;
+        max-width: calc(100% - 4rem);
+    }
+}
+
+@media screen and (min-width: 960px) {
+    .defaultp{
+        max-width: calc(100% - 4rem);
+    }
+}
+
+#justifiedStack{
+
+    justify-content: center;
+}
+
+#separator{
+    width: 100%;
+    height: 0.5rem;
+    bottom: -0.5rem;
+    background-color: rgb(35, 35, 35);
+}
