@@ -6,3 +6,8 @@ Recreated a clone of Netflix home page using components, Custom styling and boot
 
 ## T20 => React router
 Create a shopping app containing Home/Product/About pages and make use of react routing and hooks 
+
+## UPDATE
+Deployed in production using Vercel :
+[soukdotcom.vercel.app](https://soukdotcom.vercel.app/)
+[netflixclonetask.vercel.app/](https://netflixclonetask.vercel.app/)
