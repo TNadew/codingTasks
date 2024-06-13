@@ -1,4 +1,4 @@
-# codingTasks
+# Coding Tasks
 Here are a few of the task that were completed for Hyperion Dev FullStack web developer bootcamp
 
 ## T17 => Task to create a react app:
